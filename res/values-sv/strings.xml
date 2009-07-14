@@ -42,7 +42,7 @@
     <string name="accounts_action">"Konton"</string>
     <string name="mark_as_read_action">"Markera som läst"</string>
     <string name="mark_as_unread_action">"Markera som oläst"</string>
-    <string name="add_cc_bcc_action">"Lägg till kopia/hemlig kopia"</string>
+    <string name="add_cc_bcc_action">"Lägg till kopia/heml. kop."</string>
     <string name="add_attachment_action">"Lägg till bilaga"</string>
     <string name="dump_settings_action">"Inställningar för dumpar"</string>
     <string name="accounts_context_menu_title">"Kontoalternativ"</string>
@@ -125,7 +125,7 @@
     <string name="account_setup_incoming_delete_policy_label">"Ta bort e-post från servern"</string>
     <string name="account_setup_incoming_delete_policy_never_label">"Aldrig"</string>
     <string name="account_setup_incoming_delete_policy_7days_label">"Efter 7 dagar"</string>
-    <string name="account_setup_incoming_delete_policy_delete_label">"När jag tar bort något från min Inkorg"</string>
+    <string name="account_setup_incoming_delete_policy_delete_label">"Vid borttagning från Inkorgen"</string>
     <string name="account_setup_incoming_imap_path_prefix_label">"IMAP-sökvägsprefix"</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">"Valfritt"</string>
     <string name="account_setup_outgoing_title">"Utgående serverinställningar"</string>
@@ -163,7 +163,7 @@
     <string name="account_settings_notify_label">"E-postavisering"</string>
     <string name="account_settings_notify_summary">"Meddelande i statusfältet vid e-postmeddelande"</string>
     <string name="account_settings_mail_check_frequency_label">"Intervall för e-postkontroll"</string>
-    <string name="account_settings_incoming_label">"Inkommande inställningar"</string>
+    <string name="account_settings_incoming_label">"Inkommande inställn."</string>
     <string name="account_settings_outgoing_label">"Utgående inställningar"</string>
     <string name="account_settings_add_account_label">"Lägg till ett konto"</string>
     <string name="account_settings_description_label">"Kontonamn"</string>
@@ -177,6 +177,6 @@
     <string name="account_delete_dlg_instructions_fmt">"Kontot <xliff:g id="ACCOUNT">%s</xliff:g> tas bort från E-post."</string>
     <string name="provider_note_yahoo">"Vi stöder inte åtkomst till postlådan för visa typer av Yahoo!-konton. Om du har problem att ansluta besöker du yahoo.com. Där hittar du mer information."</string>
     <string name="provider_note_yahoo_uk">"Innan du skapar e-postkontot besöker du webbplatsen Yahoo! och aktiverar POP3-åtkomst för kontot."</string>
-    <string name="provider_note_live">"POP-åtkomst, som gör så att detta program kan ansluta, ingår bara i vissa pluskonton. Om det inte går att logga in med rätt e-postadress och lösenord kanske du inte har betalat för ett pluskonto. Öppna webbläsaren igen om du vill få åtkomst tills dessa e-postkonton."</string>
+    <string name="provider_note_live">"POP-åtkomst, som gör så att detta program kan ansluta, ingår bara i vissa pluskonton. Om det inte går att logga in med rätt e-postadress och lösenord kanske du inte har betalat för ett pluskonto. Öppna webbläsaren igen om du vill få åtkomst till dessa e-postkonton."</string>
     <string name="provider_note_t_online">"Innan du skapar e-postkontot besöker du T-Onlines webbplats och skapar ett lösenord för POP3-åtkomst till e-post."</string>
 </resources>

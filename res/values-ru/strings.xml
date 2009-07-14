@@ -60,7 +60,7 @@
     <item quantity="other">"в <xliff:g id="NUMBER_ACCOUNTS">%d</xliff:g> аккаунтах"</item>
   </plurals>
     <string name="special_mailbox_name_inbox">"Входящие"</string>
-    <string name="accounts_welcome">"Добро пожаловать в настройку Email!"\n\n"Вы сможете использовать любой аккаунт электронной почты."\n\n"Большинство популярных аккаунтов можно настроить всего в два действия!"</string>
+    <string name="accounts_welcome">"Добро пожаловать в настройку Email!"\n\n"Вы можете использовать любой аккаунт электронной почты."\n\n"Большинство популярных аккаунтов можно настроить всего в два действия!"</string>
     <string name="debug_version_fmt">"Версия: <xliff:g id="VERSION">%s</xliff:g>"</string>
     <string name="debug_enable_debug_logging_label">"Включить запись дополнительных сведений для отладки?"</string>
     <string name="debug_enable_sensitive_logging_label">"Включить в журналы отладки конфиденциальную информацию? (В журналах могут сохраняться пароли.)"</string>
@@ -104,7 +104,7 @@
     <string name="account_setup_check_settings_canceling_msg">"Отмена..."</string>
     <string name="account_setup_names_title">"Настройка электронной почты"</string>
     <string name="account_setup_names_instructions">"Ваш аккаунт настроен, ждите сообщений!"</string>
-    <string name="account_setup_names_account_name_label">"Присвойте этому аккаунту название (по желанию)"</string>
+    <string name="account_setup_names_account_name_label">"Присвойте этому аккаунту название (не обязательно)"</string>
     <string name="account_setup_names_user_name_label">"Ваше имя (показывается в исходящих сообщениях)"</string>
     <string name="account_setup_account_type_title">"Добавить новый аккаунт электронной почты"</string>
     <string name="account_setup_account_type_instructions">"Что это за аккаунт?"</string>
@@ -127,7 +127,7 @@
     <string name="account_setup_incoming_delete_policy_7days_label">"Через 7 дней"</string>
     <string name="account_setup_incoming_delete_policy_delete_label">"При удалении из входящих"</string>
     <string name="account_setup_incoming_imap_path_prefix_label">"Префикс пути IMAP"</string>
-    <string name="account_setup_incoming_imap_path_prefix_hint">"По желанию"</string>
+    <string name="account_setup_incoming_imap_path_prefix_hint">"Не обязательно"</string>
     <string name="account_setup_outgoing_title">"Настройки сервера исходящих сообщений"</string>
     <string name="account_setup_outgoing_smtp_server_label">"Сервер SMTP"</string>
     <string name="account_setup_outgoing_port_label">"Порт"</string>
@@ -136,7 +136,7 @@
     <string name="account_setup_outgoing_username_label">"Имя пользователя"</string>
     <string name="account_setup_outgoing_password_label">"Пароль"</string>
     <string name="account_setup_options_title">"Параметры аккаунта"</string>
-    <string name="account_setup_options_mail_check_frequency_label">"Частота проверки электронной почты"</string>
+    <string name="account_setup_options_mail_check_frequency_label">"Частота проверки почты"</string>
     <string name="account_setup_options_mail_check_frequency_never">"Никогда"</string>
     <string name="account_setup_options_mail_check_frequency_5min">"Каждые 5 минут"</string>
     <string name="account_setup_options_mail_check_frequency_10min">"Каждые 10 минут"</string>
@@ -160,9 +160,9 @@
     <string name="account_settings_title_fmt">"Общие настройки"</string>
     <string name="account_settings_default_label">"Аккаунт по умолчанию"</string>
     <string name="account_settings_default_summary">"Сделать аккаунтом электронной почты по умолчанию для отправки сообщений"</string>
-    <string name="account_settings_notify_label">"Уведомления электронной почты"</string>
-    <string name="account_settings_notify_summary">"При получении сообщения по электронной почте в строке состояния появляется уведомление"</string>
-    <string name="account_settings_mail_check_frequency_label">"Частота проверки электронной почты"</string>
+    <string name="account_settings_notify_label">"Уведомления о почте"</string>
+    <string name="account_settings_notify_summary">"Показывать уведомление о получении сообщения в строке состояния"</string>
+    <string name="account_settings_mail_check_frequency_label">"Частота проверки почты"</string>
     <string name="account_settings_incoming_label">"Настройки входящих сообщений"</string>
     <string name="account_settings_outgoing_label">"Настройки исходящих сообщений"</string>
     <string name="account_settings_add_account_label">"Добавить другой аккаунт"</string>

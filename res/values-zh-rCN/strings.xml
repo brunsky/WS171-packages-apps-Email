@@ -60,7 +60,7 @@
     <item quantity="other">"在 <xliff:g id="NUMBER_ACCOUNTS">%d</xliff:g> 个帐户中"</item>
   </plurals>
     <string name="special_mailbox_name_inbox">"收件箱"</string>
-    <string name="accounts_welcome">"欢迎使用电子邮件设置！"\n\n"使用电子邮件可设置任意电子邮件帐户。"\n\n"大多数通用的电子邮件帐户只需要 2 步即可完成设置！"</string>
+    <string name="accounts_welcome">"欢迎进行电子邮件设置！"\n\n"使用此电子邮件程序可设置任意电子邮件帐户。"\n\n"大多数通用的电子邮件帐户只需要 2 步即可完成设置！"</string>
     <string name="debug_version_fmt">"版本：<xliff:g id="VERSION">%s</xliff:g>"</string>
     <string name="debug_enable_debug_logging_label">"启用额外调试日志？"</string>
     <string name="debug_enable_sensitive_logging_label">"启用敏感信息调试日志？（可能会在日志中显示密码。）"</string>
@@ -92,7 +92,7 @@
     <string name="add_contact_dlg_message_fmt">"将“<xliff:g id="EMAIL">%s</xliff:g>”添加到联系人"</string>
     <string name="message_view_display_attachment_toast">"该附件无法显示。"</string>
     <string name="account_setup_basics_title">"设置电子邮件"</string>
-    <string name="account_setup_basics_instructions">"输入您帐户的电子邮件地址："</string>
+    <string name="account_setup_basics_instructions">"输入您的帐户电子邮件地址："</string>
     <string name="account_setup_basics_email_hint">"电子邮件地址"</string>
     <string name="account_setup_basics_password_hint">"密码"</string>
     <string name="account_setup_basics_default_label">"默认情况下从此帐户发送电子邮件。"</string>

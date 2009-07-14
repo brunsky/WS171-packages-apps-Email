@@ -163,8 +163,8 @@
     <string name="account_settings_notify_label">"E-posta bildirimleri"</string>
     <string name="account_settings_notify_summary">"E-posta geldiğinde durum çubuğunda bildir"</string>
     <string name="account_settings_mail_check_frequency_label">"E-posta kontrol sıklığı"</string>
-    <string name="account_settings_incoming_label">"Gelen ayarlar"</string>
-    <string name="account_settings_outgoing_label">"Giden ayarlar"</string>
+    <string name="account_settings_incoming_label">"Gelen ayarları"</string>
+    <string name="account_settings_outgoing_label">"Giden ayarları"</string>
     <string name="account_settings_add_account_label">"Başka hesap ekle"</string>
     <string name="account_settings_description_label">"Hesap adı"</string>
     <string name="account_settings_name_label">"Adınız"</string>
