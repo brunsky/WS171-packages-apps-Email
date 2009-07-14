@@ -69,7 +69,7 @@
     <string name="message_compose_cc_hint">"Cc"</string>
     <string name="message_compose_bcc_hint">"Bcc"</string>
     <string name="message_compose_subject_hint">"Assunto"</string>
-    <string name="message_compose_body_hint">"Redigir correio"</string>
+    <string name="message_compose_body_hint">"Redigir mensagem"</string>
     <string name="message_compose_fwd_header_fmt">\n\n"-------- Mensagem original --------"\n"Assunto: <xliff:g id="SUBJECT">%s</xliff:g>"\n"De: <xliff:g id="SENDER">%s</xliff:g>"\n"Para: <xliff:g id="TO">%s</xliff:g>"\n"CC: <xliff:g id="CC_0">%s</xliff:g>"\n\n</string>
     <string name="message_compose_reply_header_fmt">\n\n"<xliff:g id="SENDER">%s</xliff:g> escreveu:"\n\n</string>
     <string name="message_compose_quoted_text_label">"Texto entre aspas"</string>
@@ -103,7 +103,7 @@
     <string name="account_setup_check_settings_check_outgoing_msg">"A verificar definições do servidor de envio..."</string>
     <string name="account_setup_check_settings_canceling_msg">"A cancelar..."</string>
     <string name="account_setup_names_title">"Configurar e-mail"</string>
-    <string name="account_setup_names_instructions">"A sua conta está configurada e o e-mail vai a caminho!"</string>
+    <string name="account_setup_names_instructions">"A sua conta está configurada e o e-mail está a caminho!"</string>
     <string name="account_setup_names_account_name_label">"Dar um nome a esta conta (opcional)"</string>
     <string name="account_setup_names_user_name_label">"O seu nome (apresentado nas mensagens enviadas)"</string>
     <string name="account_setup_account_type_title">"Adicionar nova conta de e-mail"</string>
@@ -124,7 +124,7 @@
     <string name="account_setup_incoming_security_tls_label">"TLS (sempre)"</string>
     <string name="account_setup_incoming_delete_policy_label">"Eliminar e-mail do servidor"</string>
     <string name="account_setup_incoming_delete_policy_never_label">"Nunca"</string>
-    <string name="account_setup_incoming_delete_policy_7days_label">"Passados 7 dias"</string>
+    <string name="account_setup_incoming_delete_policy_7days_label">"Após 7 dias"</string>
     <string name="account_setup_incoming_delete_policy_delete_label">"Quando elimino da pasta A Receber"</string>
     <string name="account_setup_incoming_imap_path_prefix_label">"Prefixo de caminho IMAP"</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">"Opcional"</string>
