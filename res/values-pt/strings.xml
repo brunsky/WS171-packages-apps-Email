@@ -99,8 +99,8 @@
     <string name="account_setup_basics_manual_setup_action">"Configuração manual"</string>
     <string name="account_setup_username_password_toast">"Digite um endereço de e-mail e senha válidos."</string>
     <string name="account_setup_check_settings_retr_info_msg">"Recuperando informações sobre a conta"</string>
-    <string name="account_setup_check_settings_check_incoming_msg">"Verificando as configurações de servidor recebidas..."</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">"Verificando as configurações de servidor recebidas..."</string>
+    <string name="account_setup_check_settings_check_incoming_msg">"Verificando as configurações de entrada do servidor..."</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">"Verificando as configurações de saída do servidor..."</string>
     <string name="account_setup_check_settings_canceling_msg">"Cancelando..."</string>
     <string name="account_setup_names_title">"Configurar e-mail"</string>
     <string name="account_setup_names_instructions">"Sua conta está configurada e o e-mail está a caminho!"</string>
@@ -110,7 +110,7 @@
     <string name="account_setup_account_type_instructions">"Que tipo de conta é esta?"</string>
     <string name="account_setup_account_type_pop_action">"Conta POP3"</string>
     <string name="account_setup_account_type_imap_action">"Conta IMAP"</string>
-    <string name="account_setup_incoming_title">"Configurações de servidor recebidas"</string>
+    <string name="account_setup_incoming_title">"Configurações de entrada do servidor"</string>
     <string name="account_setup_incoming_username_label">"Nome de usuário"</string>
     <string name="account_setup_incoming_password_label">"Senha"</string>
     <string name="account_setup_incoming_pop_server_label">"Servidor POP3"</string>
@@ -128,7 +128,7 @@
     <string name="account_setup_incoming_delete_policy_delete_label">"Quando eu excluir da Caixa de entrada"</string>
     <string name="account_setup_incoming_imap_path_prefix_label">"Prefixo do caminho IMAP"</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">"Opcional"</string>
-    <string name="account_setup_outgoing_title">"Configurações de servidor enviadas"</string>
+    <string name="account_setup_outgoing_title">"Configurações de saída do servidor"</string>
     <string name="account_setup_outgoing_smtp_server_label">"Servidor SMTP"</string>
     <string name="account_setup_outgoing_port_label">"Porta"</string>
     <string name="account_setup_outgoing_security_label">"Tipo de segurança"</string>
@@ -162,9 +162,9 @@
     <string name="account_settings_default_summary">"Enviar e-mail desta conta por padrão"</string>
     <string name="account_settings_notify_label">"Notificações de e-mail"</string>
     <string name="account_settings_notify_summary">"Notificar na barra de status quando chegar um e-mail"</string>
-    <string name="account_settings_mail_check_frequency_label">"Frequencia de verificação de e-mail"</string>
-    <string name="account_settings_incoming_label">"Configurações recebidas"</string>
-    <string name="account_settings_outgoing_label">"Configurações enviadas"</string>
+    <string name="account_settings_mail_check_frequency_label">"Frequência de verificação de e-mail"</string>
+    <string name="account_settings_incoming_label">"Configurações de entrada"</string>
+    <string name="account_settings_outgoing_label">"Configurações de saída"</string>
     <string name="account_settings_add_account_label">"Adicionar outra conta"</string>
     <string name="account_settings_description_label">"Nome da conta"</string>
     <string name="account_settings_name_label">"Seu nome"</string>

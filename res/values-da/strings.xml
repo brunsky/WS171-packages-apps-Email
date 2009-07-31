@@ -88,8 +88,8 @@
     <string name="message_deleted_toast">"Besked slettet."</string>
     <string name="message_discarded_toast">"Besked kasseret."</string>
     <string name="message_saved_toast">"Beskeden er gemt som kladde."</string>
-    <string name="add_contact_dlg_title">"Tilføj kontaktperson"</string>
-    <string name="add_contact_dlg_message_fmt">"Føj \"<xliff:g id="EMAIL">%s</xliff:g>\" til kontaktpersoner"</string>
+    <string name="add_contact_dlg_title">"Tilføj kontakt"</string>
+    <string name="add_contact_dlg_message_fmt">"Føj \"<xliff:g id="EMAIL">%s</xliff:g>\" til kontakter"</string>
     <string name="message_view_display_attachment_toast">"Denne vedhæftede fil kan ikke vises."</string>
     <string name="account_setup_basics_title">"Opsæt e-mail"</string>
     <string name="account_setup_basics_instructions">"Indtast din kontos e-mail-adresse"</string>

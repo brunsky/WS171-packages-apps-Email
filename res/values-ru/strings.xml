@@ -95,7 +95,7 @@
     <string name="account_setup_basics_instructions">"Введите адрес электронной почты аккаунта:"</string>
     <string name="account_setup_basics_email_hint">"Адрес электронной почты"</string>
     <string name="account_setup_basics_password_hint">"Пароль"</string>
-    <string name="account_setup_basics_default_label">"Сделать аккаунтом электронной почты по умолчанию для отправки сообщений."</string>
+    <string name="account_setup_basics_default_label">"По умолчанию отправлять почту с этого аккаунта"</string>
     <string name="account_setup_basics_manual_setup_action">"Настройка вручную"</string>
     <string name="account_setup_username_password_toast">"Введите действительный адрес электронной почты и пароль."</string>
     <string name="account_setup_check_settings_retr_info_msg">"Получение информации аккаунта..."</string>
@@ -143,7 +143,7 @@
     <string name="account_setup_options_mail_check_frequency_15min">"Каждые 15 минут"</string>
     <string name="account_setup_options_mail_check_frequency_30min">"Каждые 30 минут"</string>
     <string name="account_setup_options_mail_check_frequency_1hour">"Каждый час"</string>
-    <string name="account_setup_options_default_label">"Сделать аккаунтом электронной почты по умолчанию для отправки сообщений."</string>
+    <string name="account_setup_options_default_label">"По умолчанию отправлять почту с этого аккаунта"</string>
     <string name="account_setup_options_notify_label">"Уведомлять при получении сообщения по электронной почте."</string>
     <string name="account_setup_failed_dlg_title">"Не удается завершить настройку"</string>
     <string name="account_setup_failed_dlg_auth_message">"Неверное имя пользователя или пароль."</string>
@@ -159,9 +159,9 @@
     <string name="account_setup_failed_dlg_edit_details_action">"Изменить сведения"</string>
     <string name="account_settings_title_fmt">"Общие настройки"</string>
     <string name="account_settings_default_label">"Аккаунт по умолчанию"</string>
-    <string name="account_settings_default_summary">"Сделать аккаунтом электронной почты по умолчанию для отправки сообщений"</string>
+    <string name="account_settings_default_summary">"По умолчанию отправлять почту с этого аккаунта"</string>
     <string name="account_settings_notify_label">"Уведомления о почте"</string>
-    <string name="account_settings_notify_summary">"Показывать уведомление о получении сообщения в строке состояния"</string>
+    <string name="account_settings_notify_summary">"Сообщать о получении почты в строке состояния"</string>
     <string name="account_settings_mail_check_frequency_label">"Частота проверки почты"</string>
     <string name="account_settings_incoming_label">"Настройки входящих сообщений"</string>
     <string name="account_settings_outgoing_label">"Настройки исходящих сообщений"</string>

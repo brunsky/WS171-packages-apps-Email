@@ -60,7 +60,7 @@
     <item quantity="other">"在 <xliff:g id="NUMBER_ACCOUNTS">%d</xliff:g> 个帐户中"</item>
   </plurals>
     <string name="special_mailbox_name_inbox">"收件箱"</string>
-    <string name="accounts_welcome">"欢迎进行电子邮件设置！"\n\n"使用此电子邮件程序可设置任意电子邮件帐户。"\n\n"大多数通用的电子邮件帐户只需要 2 步即可完成设置！"</string>
+    <string name="accounts_welcome">"欢迎进行电子邮件设置！"\n\n"使用此电子邮件程序可设置任意电子邮件帐户。"\n\n"大多数常见的电子邮件帐户只需两步即可完成设置！"</string>
     <string name="debug_version_fmt">"版本：<xliff:g id="VERSION">%s</xliff:g>"</string>
     <string name="debug_enable_debug_logging_label">"启用额外调试日志？"</string>
     <string name="debug_enable_sensitive_logging_label">"启用敏感信息调试日志？（可能会在日志中显示密码。）"</string>
@@ -155,7 +155,7 @@
     <string name="account_setup_failed_tls_required">"需要 TLS，但服务器不支持 TLS。"</string>
     <string name="account_setup_failed_auth_required">"服务器不支持身份验证方法。"</string>
     <string name="account_setup_failed_security">"由于安全错误，无法打开到服务器的连接。"</string>
-    <string name="account_setup_failed_ioerror">"无法打开到服务器的连接。"</string>
+    <string name="account_setup_failed_ioerror">"无法与服务器建立连接。"</string>
     <string name="account_setup_failed_dlg_edit_details_action">"编辑详情"</string>
     <string name="account_settings_title_fmt">"常规设置"</string>
     <string name="account_settings_default_label">"默认帐户"</string>
