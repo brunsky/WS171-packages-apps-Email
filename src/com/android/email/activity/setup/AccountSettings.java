@@ -42,7 +42,7 @@ public class AccountSettings extends PreferenceActivity {
     private static final String PREFERENCE_FREQUENCY = "account_check_frequency";
     private static final String PREFERENCE_DEFAULT = "account_default";
     private static final String PREFERENCE_NOTIFY = "account_notify";
-    private static final String PREFERENCE_VIBRATE = "account_vibrate";
+    //private static final String PREFERENCE_VIBRATE = "account_vibrate";  //GILL MARKED
     private static final String PREFERENCE_RINGTONE = "account_ringtone";
     private static final String PREFERENCE_INCOMING = "incoming";
     private static final String PREFERENCE_OUTGOING = "outgoing";
@@ -55,7 +55,7 @@ public class AccountSettings extends PreferenceActivity {
     private ListPreference mCheckFrequency;
     private CheckBoxPreference mAccountDefault;
     private CheckBoxPreference mAccountNotify;
-    private CheckBoxPreference mAccountVibrate;
+    //private CheckBoxPreference mAccountVibrate;  //GILL MARKED
     private RingtonePreference mAccountRingtone;
 
     public static void actionSettings(Context context, Account account) {
@@ -126,8 +126,9 @@ public class AccountSettings extends PreferenceActivity {
         SharedPreferences prefs = mAccountRingtone.getPreferenceManager().getSharedPreferences();
         prefs.edit().putString(PREFERENCE_RINGTONE, mAccount.getRingtone()).commit();
 
-        mAccountVibrate = (CheckBoxPreference) findPreference(PREFERENCE_VIBRATE);
-        mAccountVibrate.setChecked(mAccount.isVibrate());
+        //GILL MARKED
+        //mAccountVibrate = (CheckBoxPreference) findPreference(PREFERENCE_VIBRATE);
+        //mAccountVibrate.setChecked(mAccount.isVibrate());
 
         findPreference(PREFERENCE_INCOMING).setOnPreferenceClickListener(
                 new Preference.OnPreferenceClickListener() {
@@ -167,7 +168,7 @@ public class AccountSettings extends PreferenceActivity {
         mAccount.setName(mAccountName.getText());
         mAccount.setNotifyNewMail(mAccountNotify.isChecked());
         mAccount.setAutomaticCheckIntervalMinutes(Integer.parseInt(mCheckFrequency.getValue()));
-        mAccount.setVibrate(mAccountVibrate.isChecked());
+        //mAccount.setVibrate(mAccountVibrate.isChecked());  //GILL MARKED
         SharedPreferences prefs = mAccountRingtone.getPreferenceManager().getSharedPreferences();
         mAccount.setRingtone(prefs.getString(PREFERENCE_RINGTONE, null));
         mAccount.save(Preferences.getPreferences(this));
